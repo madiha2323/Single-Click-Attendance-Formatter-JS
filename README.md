@@ -7,7 +7,7 @@ Welcome to the Attendance Table Formatter repository! This project showcases an 
 - The HTML table displays student IDs, names, and daily attendance records with 'P' (Present), 'A' (Absent), and 'L' (Late) indicators.
 - Click the "Apply Formatting" button to highlight 'A' and 'L' records in red and orange, respectively.
 - Click the "Clear Formatting" button to reset the formatting to the default state.
-- 
+  
 
 ## Usage
 
