@@ -1,4 +1,4 @@
-# Attendance Table Formatter
+# Attendance Table Formatter (one click two events)
 
 Welcome to the Attendance Table Formatter repository! This project showcases an interactive HTML table designed to display an attendance sheet for a month. The JavaScript code included in the HTML file enhances the visualization of attendance data by applying distinct formatting to the table cells based on the attendance status of each student.
 
@@ -24,9 +24,5 @@ Welcome to the Attendance Table Formatter repository! This project showcases an 
 
 Feel free to modify the HTML and JavaScript code to adapt the table and formatting according to your needs.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
-Created by [Your Name] - Feel free to contact me at [Your Email].
+
